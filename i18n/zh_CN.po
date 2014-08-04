@@ -1,0 +1,48 @@
+# Translation of OpenERP Server.
+# This file contains the translation of the following modules:
+# 	* supplier_import
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenERP Server 7.0-20140311-003137\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-04 08:09+0000\n"
+"PO-Revision-Date: 2014-08-04 16:10+0800\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Poedit 1.5.4\n"
+
+#. module: supplier_import
+#: model:ir.actions.act_window,name:supplier_import.action_supplier_import
+#: model:ir.ui.menu,name:supplier_import.menu_supplier_import
+msgid "Supplier Import"
+msgstr "供应商导入"
+
+#. module: supplier_import
+#: model:ir.model,name:supplier_import.model_supplier_import
+msgid "supplier.import"
+msgstr "supplier.import"
+
+#. module: supplier_import
+#: view:supplier.import:0
+msgid "Import Supplier"
+msgstr "导入供应商"
+
+#. module: supplier_import
+#: view:supplier.import:0
+msgid ":) click me to start importing"
+msgstr ":) 点我开始导入"
+
+#. module: supplier_import
+#: view:supplier.import:0
+msgid "轻松一点，导入无忧"
+msgstr "轻松一点，导入无忧"
+
+#. module: supplier_import
+#: field:supplier.import,xls:0
+msgid "Excel File"
+msgstr "要导入的EXCEL文件"
